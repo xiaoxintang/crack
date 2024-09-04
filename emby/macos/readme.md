@@ -50,3 +50,6 @@ response => {
     Promise.resolve()
 }
 ```
+
+## 鸣谢
+[@rartv](https://github.com/rartv)
